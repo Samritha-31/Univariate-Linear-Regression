@@ -18,21 +18,22 @@ To implement univariate Linear Regression to fit a straight line using least squ
 ### DEVELOPED BY : SAMRITHA G
 ### REGISTER NUMBER : 212225230244
 
-<img width="835" height="692" alt="Maths for AI P9(i)" src="https://github.com/user-attachments/assets/44cd165c-373a-43ad-a2e8-4aefd79834b9" />
+<img width="814" height="162" alt="Maths for AI P9(i)" src="https://github.com/user-attachments/assets/08180433-5c5f-4992-9aa9-e1f4acbd081c" />
 
-<img width="552" height="300" alt="Maths for AI P9(ii)" src="https://github.com/user-attachments/assets/eae9fec5-1b1e-4815-95b8-d39172776627" />
+<img width="552" height="260" alt="Maths for AI P9(ii)" src="https://github.com/user-attachments/assets/444f12ab-e2ec-4169-a7c8-b9af7795f1c4" />
 
-<img width="815" height="663" alt="Maths for AI P9(iii)" src="https://github.com/user-attachments/assets/7297bc9f-8030-4cb7-8b87-a62463f676ca" />
+<img width="815" height="150" alt="Maths for AI P9(iii)" src="https://github.com/user-attachments/assets/22b033c0-e7f6-4751-b99d-234f5e3d09fc" />
 
 
 
 ## Output
 
-<img width="835" height="692" alt="Maths for AI P9(i)" src="https://github.com/user-attachments/assets/6f6553cf-0a2d-4d37-bcb3-45e71a593811" />
+<img width="826" height="522" alt="Maths for AI O9(i)" src="https://github.com/user-attachments/assets/2bf15062-a361-496f-a202-a9d20ec323b0" />
 
-<img width="552" height="300" alt="Maths for AI P9(ii)" src="https://github.com/user-attachments/assets/281e16a3-1f69-40a5-bd06-663f17d91847" />
+<img width="552" height="48" alt="Maths for AI O9(ii)" src="https://github.com/user-attachments/assets/b2c33307-f188-4c55-adba-7c29a4d206ff" />
 
-<img width="815" height="663" alt="Maths for AI P9(iii)" src="https://github.com/user-attachments/assets/d22a846a-89ce-406a-9fb4-8d0a86ebf5dd" />
+<img width="815" height="512" alt="Maths for AI O9(iii)" src="https://github.com/user-attachments/assets/6334300d-201a-47b5-b534-b95becca6179" />
+
 
 
 
