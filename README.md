@@ -35,7 +35,5 @@ To implement univariate Linear Regression to fit a straight line using least squ
    <img width="815" height="512" alt="Maths for AI O9(iii)" src="https://github.com/user-attachments/assets/6334300d-201a-47b5-b534-b95becca6179" />
 
 
-
-
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
